@@ -1,0 +1,2 @@
+1. Embed multiplicative watermark in DC component is possible (modeling with Weibull model).
+2. 
